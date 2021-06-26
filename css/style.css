@@ -1,0 +1,64 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+    color: #333;  
+ }
+ .header-inner{
+    padding-top: 200px;
+}
+
+
+.header-intro{
+    background-image: url(../image/fashion.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 600px;
+    position: relative;
+    overflow: hidden;
+}
+ .overlay-bg{
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     min-height: 600px;
+     background-color: rgba(0,0, 0, 0.7);
+ }
+ .shariful{
+     width:300px;
+     height:300px;
+     border-radius: 50%;
+ }
+ .about{
+     padding-left: 50px;
+     border-left: 2px solid black;
+ }
+ .col-md-4 {
+     margin-bottom: 20px;
+ }
+ .card-body{
+    transition: 0.5s; 
+     
+ }
+ .card-body:hover{
+     padding-left: 50px;
+ }
+ .zoom{
+     
+    transition: 0.5s; 
+ }
+ .zoom:hover{
+    transform:scale(1.5);
+ }
+ #features{
+     background-color: #0d6ffd;
+     height:650px;
+ }
+ #pricing{
+    background-color: #212529;
+    height:1150px;
+
+ }
+
+ 
