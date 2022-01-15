@@ -1,2 +1,2 @@
 # fashion
-https://theshariful.github.io/fashion/
+https://mohammadshariful.github.io/fashion/
